@@ -17,13 +17,12 @@ public class LevelController : MonoBehaviour
     bool bonusTaken = false;
     UsersMoveKeys userKeys;
     int bonus = -1;
-<<<<<<< HEAD
+
     AudioSource audio;
-=======
+
     private Logger _logger;
     private DateTime timeCreate;
 
->>>>>>> dd93a4990b292c3c3b65b6a638cb256bef5870c5
     public enum Id
     {
         top,
