@@ -469,6 +469,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: 
 --- !u!1 &353751128
 GameObject:
   m_ObjectHideFlags: 0
@@ -651,6 +652,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: 
 --- !u!1 &448757288
 GameObject:
   m_ObjectHideFlags: 0
@@ -1484,6 +1486,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: 
 --- !u!1 &963262099
 GameObject:
   m_ObjectHideFlags: 0
@@ -1966,6 +1969,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: 
 --- !u!1 &1358181090
 GameObject:
   m_ObjectHideFlags: 0
@@ -1978,6 +1982,7 @@ GameObject:
   - component: {fileID: 1358181093}
   - component: {fileID: 1358181092}
   - component: {fileID: 1358181095}
+  - component: {fileID: 1358181096}
   m_Layer: 5
   m_Name: FirstPlayerMoveRight
   m_TagString: Untagged
@@ -2112,6 +2117,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: FirstPlayerMoveRight
+--- !u!114 &1358181096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1358181090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d5bebf483bc9d54e9d85b051f42cd19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputField: {fileID: 0}
 --- !u!1 &1397872601
 GameObject:
   m_ObjectHideFlags: 0
@@ -2628,6 +2646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: 
 --- !u!1 &1474032845
 GameObject:
   m_ObjectHideFlags: 0
@@ -2848,6 +2867,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: 
 --- !u!1 &1533797069
 GameObject:
   m_ObjectHideFlags: 0
@@ -2896,6 +2916,7 @@ GameObject:
   - component: {fileID: 1551664434}
   - component: {fileID: 1551664433}
   - component: {fileID: 1551664436}
+  - component: {fileID: 1551664437}
   m_Layer: 5
   m_Name: FirstPlayerMoveLeft
   m_TagString: Untagged
@@ -3027,9 +3048,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 1551664431}
   m_Enabled: 1
   m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95098748a905d8547873abec6baed17d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputField: {fileID: 0}
+--- !u!114 &1551664437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1551664431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objName: FirstPlayerMoveLeft
 --- !u!1 &1580450455
 GameObject:
   m_ObjectHideFlags: 0

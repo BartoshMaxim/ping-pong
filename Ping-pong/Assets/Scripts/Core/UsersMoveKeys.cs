@@ -18,5 +18,20 @@ namespace Assets.Scripts.Core
 
         public KeyCode Player4MoveRight { get; set; }
         public KeyCode Player4MoveLeft { get; set; }
+
+        public UsersMoveKeys()
+        {
+            Player1MoveLeft = (KeyCode)System.Enum.Parse(typeof(KeyCode), "LeftArrow");
+            Player1MoveRight = (KeyCode)System.Enum.Parse(typeof(KeyCode), "RightArrow");
+
+            Player2MoveLeft = (KeyCode)System.Enum.Parse(typeof(KeyCode), "Q");
+            Player2MoveRight = (KeyCode)System.Enum.Parse(typeof(KeyCode), "E");
+
+            Player3MoveLeft = (KeyCode)System.Enum.Parse(typeof(KeyCode), "A");
+            Player3MoveRight = (KeyCode)System.Enum.Parse(typeof(KeyCode), "D");
+
+            Player4MoveLeft = (KeyCode)System.Enum.Parse(typeof(KeyCode), "Z");
+            Player4MoveRight = (KeyCode)System.Enum.Parse(typeof(KeyCode), "C");
+        }
     }
 }
