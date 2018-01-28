@@ -13,7 +13,7 @@ public class BallMovement : MonoBehaviour {
     public AudioClip saw;
     void Start ()
     {
-        speed = 50f;
+        speed = 5f;
         emojiName = 1;
         //if (transform.position.x <= 0)
         //    GetComponent<Rigidbody>().velocity = new Vector3(1, 0, 1) * speed;//right
