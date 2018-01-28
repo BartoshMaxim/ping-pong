@@ -1,18 +1,29 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using Assets.Scripts.Core;
+using Assets.Scripts.Logger;
+using Assets.Scripts.Session;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LevelController : MonoBehaviour {
+public class LevelController : MonoBehaviour
+{
 
+    private static string _tag = "LevelController";
     public Transform ball;
     public Platform[] platform;
     public static int Points { get; set; }
     bool bonusTaken = false;
     UsersMoveKeys userKeys;
     int bonus = -1;
+<<<<<<< HEAD
     AudioSource audio;
+=======
+    private Logger _logger;
+    private DateTime timeCreate;
+
+>>>>>>> dd93a4990b292c3c3b65b6a638cb256bef5870c5
     public enum Id
     {
         top,
@@ -35,6 +46,9 @@ public class LevelController : MonoBehaviour {
         Points = 0;
         ball.position = new Vector3();
         userKeys = Menu.UsersMoveKeys;
+        _logger = new UnityEngine.Logger(new PingPongLogHandler());
+        _logger.Log(_tag, "Session Start.");
+        timeCreate = DateTime.Now;
 
         foreach (Platform p in platform)
         {
@@ -45,7 +59,7 @@ public class LevelController : MonoBehaviour {
         platform[2].Id = (int)Id.left;
         platform[3].Id = (int)Id.right;
     }
-    
+
     private void Update()
     {
         platform[0].MovePlatform(userKeys.Player1MoveLeft, userKeys.Player1MoveRight);
@@ -58,10 +72,10 @@ public class LevelController : MonoBehaviour {
            || ball.transform.position.z > 71f
             || ball.transform.position.z < -71f)
         {
-            SceneManager.LoadScene("Statistics");
+            Exit("Мяч вылетел за границы поля");
         }
 
-            if (!bonusTaken)
+        if (!bonusTaken)
         {
             if (platform[0].transform.position.x < -49f
            && platform[1].transform.position.x > 49f
@@ -95,6 +109,35 @@ public class LevelController : MonoBehaviour {
                     Bonus.DoublePlatform(platform[BallMovement.LastPlatformId]);
                     break;
                 }
+        }
+    }
+    public void Exit(string nameDeath)
+    {
+        SaveResults(nameDeath);
+        SceneManager.LoadScene("Statistics");
+    }
+
+    /// <summary>
+    /// Save Results and start new scene
+    /// </summary>
+    public void SaveResults(string nameDeath)
+    {
+        try
+        {
+            var spendTime = DateTime.Now - timeCreate;
+
+            Debug.Log("TimeCreate " + timeCreate);
+            Debug.Log("Spend " + spendTime.ToString());
+            Debug.Log("Death " + nameDeath);
+            Debug.Log("Points " + Points);
+
+            SessionResult sessionResult = new SessionResult(timeCreate, spendTime, nameDeath, Points);
+            Menu.SessionList.Sessions.Add(sessionResult);
+            Menu.SessionList.Save();
+        }
+        catch (System.Exception e)
+        {
+            _logger.LogException(e);
         }
     }
 }

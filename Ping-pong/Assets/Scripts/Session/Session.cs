@@ -12,7 +12,7 @@ namespace Assets.Scripts.Session
     /// </summary>
     public class Session : MonoBehaviour, ISession
     {
-        public static readonly string sessionGameObjectName = "A*";
+        public static readonly string sessionGameObjectName = "session";
 
         private static string _tag = "Session";
 
@@ -58,7 +58,7 @@ namespace Assets.Scripts.Session
                 Debug.Log("Spend " + spendTime.ToString());
                 Debug.Log("Death " + nameDeath);
 
-                SessionResult sessionResult = new SessionResult(timeCreate, spendTime, nameDeath);
+                SessionResult sessionResult = new SessionResult(timeCreate, spendTime, nameDeath, 0);
                 Menu.SessionList.Sessions.Add(sessionResult);
                 Menu.SessionList.Save();
             }
