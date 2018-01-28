@@ -334,8 +334,9 @@ GameObject:
   - component: {fileID: 278335415}
   - component: {fileID: 278335414}
   - component: {fileID: 278335413}
+  - component: {fileID: 278335416}
   m_Layer: 5
-  m_Name: FourthPlayerMoveLeft
+  m_Name: FourthPlayerMoveRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -406,7 +407,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -457,6 +458,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 278335411}
+--- !u!114 &278335416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 278335411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &353751128
 GameObject:
   m_ObjectHideFlags: 0
@@ -504,8 +516,9 @@ GameObject:
   - component: {fileID: 406696911}
   - component: {fileID: 406696910}
   - component: {fileID: 406696909}
+  - component: {fileID: 406696912}
   m_Layer: 5
-  m_Name: SecondPlayerMoveLeft
+  m_Name: SecondPlayerMoveRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -576,7 +589,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -627,6 +640,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 406696907}
+--- !u!114 &406696912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 406696907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &448757288
 GameObject:
   m_ObjectHideFlags: 0
@@ -889,7 +913,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Player1 Move Right/Left
+  m_Text: Player1 Move Left/Right
 --- !u!222 &580663342
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1165,7 +1189,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Right
+  m_Text: Left
 --- !u!222 &852344325
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1325,8 +1349,9 @@ GameObject:
   - component: {fileID: 944675843}
   - component: {fileID: 944675842}
   - component: {fileID: 944675841}
+  - component: {fileID: 944675844}
   m_Layer: 5
-  m_Name: ThirdPlayerMoveRight
+  m_Name: ThirdPlayerMoveLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1397,7 +1422,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -1448,6 +1473,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 944675839}
+--- !u!114 &944675844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 944675839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &963262099
 GameObject:
   m_ObjectHideFlags: 0
@@ -1515,7 +1551,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Player2 Move Right/Left
+  m_Text: Player2 Move Left/Right
 --- !u!222 &963262102
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1703,7 +1739,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Right
+  m_Text: Left
 --- !u!222 &1164863197
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1795,8 +1831,9 @@ GameObject:
   - component: {fileID: 1287419688}
   - component: {fileID: 1287419687}
   - component: {fileID: 1287419686}
+  - component: {fileID: 1287419689}
   m_Layer: 5
-  m_Name: SecondPlayerMoveRight
+  m_Name: SecondPlayerMoveLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1867,7 +1904,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -1918,6 +1955,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1287419684}
+--- !u!114 &1287419689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1287419684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1358181090
 GameObject:
   m_ObjectHideFlags: 0
@@ -1929,8 +1977,9 @@ GameObject:
   - component: {fileID: 1358181094}
   - component: {fileID: 1358181093}
   - component: {fileID: 1358181092}
+  - component: {fileID: 1358181095}
   m_Layer: 5
-  m_Name: FirstPlayerMoveLeft
+  m_Name: FirstPlayerMoveRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2001,7 +2050,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -2052,6 +2101,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1358181090}
+--- !u!114 &1358181095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1358181090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1397872601
 GameObject:
   m_ObjectHideFlags: 0
@@ -2119,7 +2179,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Right
+  m_Text: Left
 --- !u!222 &1397872604
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2193,7 +2253,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Left
+  m_Text: Right
 --- !u!222 &1401641476
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2267,7 +2327,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Player3 Move Right/Left
+  m_Text: Player3 Move Left/Right
 --- !u!222 &1440183846
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2415,7 +2475,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Left
+  m_Text: Right
 --- !u!222 &1463565006
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2433,8 +2493,9 @@ GameObject:
   - component: {fileID: 1469883131}
   - component: {fileID: 1469883130}
   - component: {fileID: 1469883129}
+  - component: {fileID: 1469883132}
   m_Layer: 5
-  m_Name: FourthPlayerMoveRight
+  m_Name: FourthPlayerMoveLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2505,7 +2566,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -2556,6 +2617,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1469883127}
+--- !u!114 &1469883132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1469883127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1474032845
 GameObject:
   m_ObjectHideFlags: 0
@@ -2641,8 +2713,9 @@ GameObject:
   - component: {fileID: 1531364943}
   - component: {fileID: 1531364942}
   - component: {fileID: 1531364941}
+  - component: {fileID: 1531364944}
   m_Layer: 5
-  m_Name: ThirdPlayerMoveLeft
+  m_Name: ThirdPlayerMoveRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2713,7 +2786,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -2764,6 +2837,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1531364939}
+--- !u!114 &1531364944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1531364939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1533797069
 GameObject:
   m_ObjectHideFlags: 0
@@ -2811,8 +2895,9 @@ GameObject:
   - component: {fileID: 1551664435}
   - component: {fileID: 1551664434}
   - component: {fileID: 1551664433}
+  - component: {fileID: 1551664436}
   m_Layer: 5
-  m_Name: FirstPlayerMoveRight
+  m_Name: FirstPlayerMoveLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2883,7 +2968,7 @@ MonoBehaviour:
   m_LineType: 0
   m_HideMobileInput: 0
   m_CharacterValidation: 0
-  m_CharacterLimit: 1
+  m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
@@ -2934,6 +3019,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1551664431}
+--- !u!114 &1551664436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1551664431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1580450455
 GameObject:
   m_ObjectHideFlags: 0
@@ -3075,7 +3171,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Right
+  m_Text: Left
 --- !u!222 &1639986793
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3183,14 +3279,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64d74567710360f4ba88618cbcda09e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player1MoveRight: {fileID: 0}
-  Player1MoveLeft: {fileID: 0}
-  Player2MoveRight: {fileID: 0}
-  Player2MoveLeft: {fileID: 0}
-  Player3MoveRight: {fileID: 0}
-  Player3MoveLeft: {fileID: 0}
-  Player4MoveRight: {fileID: 0}
-  Player4MoveLeft: {fileID: 0}
+  Player1MoveRight: {fileID: 1358181092}
+  Player1MoveLeft: {fileID: 1551664433}
+  Player2MoveRight: {fileID: 406696909}
+  Player2MoveLeft: {fileID: 1287419686}
+  Player3MoveRight: {fileID: 1531364941}
+  Player3MoveLeft: {fileID: 944675841}
+  Player4MoveRight: {fileID: 278335413}
+  Player4MoveLeft: {fileID: 1469883129}
 --- !u!1 &1683868318
 GameObject:
   m_ObjectHideFlags: 0
@@ -3258,7 +3354,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Left
+  m_Text: Right
 --- !u!222 &1683868321
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3722,7 +3818,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Left
+  m_Text: Right
 --- !u!222 &1910754562
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3796,7 +3892,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Player4 Move Right/Left
+  m_Text: Player4 Move Left/Right
 --- !u!222 &2136921379
 CanvasRenderer:
   m_ObjectHideFlags: 0

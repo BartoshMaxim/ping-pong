@@ -10,7 +10,8 @@ using UnityEngine.SceneManagement;
 /// <summary>
 /// Start menu
 /// </summary>
-public class Menu : MonoBehaviour {
+public class Menu : MonoBehaviour
+{
 
     private static string _tag = "Menu";
 
@@ -18,12 +19,31 @@ public class Menu : MonoBehaviour {
 
     public static SessionList SessionList;
 
-    public static UsersMoveKeys UsersMoveKeys { get; set; }
+    public static UsersMoveKeys _usersMoveKeys;
+
+    public static UsersMoveKeys UsersMoveKeys
+    {
+        get
+        {
+            if (_usersMoveKeys == null)
+            {
+                _usersMoveKeys = new UsersMoveKeys();
+            }
+            return _usersMoveKeys;
+        }
+        set
+        {
+            _usersMoveKeys = value;
+        }
+    }
+
+
 
     private void Start()
     {
         _logger = new UnityEngine.Logger(new PingPongLogHandler());
         _logger.Log(_tag, "SessionResultAnimation Start.");
+        UsersMoveKeys = new UsersMoveKeys();
         try
         {
             if (File.Exists(Path.Combine(Application.dataPath, "session_list.xml")))

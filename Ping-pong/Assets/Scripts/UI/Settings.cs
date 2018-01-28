@@ -3,6 +3,7 @@ using Assets.Scripts.Logger;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -19,17 +20,17 @@ namespace Assets.Scripts.UI
 
         private UnityEngine.Logger _logger;
 
-        public Text Player1MoveRight;
-        public Text Player1MoveLeft;
+        public InputField Player1MoveRight;
+        public InputField Player1MoveLeft;
 
-        public Text Player2MoveRight;
-        public Text Player2MoveLeft;
+        public InputField Player2MoveRight;
+        public InputField Player2MoveLeft;
 
-        public Text Player3MoveRight;
-        public Text Player3MoveLeft;
+        public InputField Player3MoveRight;
+        public InputField Player3MoveLeft;
 
-        public Text Player4MoveRight;
-        public Text Player4MoveLeft;
+        public InputField Player4MoveRight;
+        public InputField Player4MoveLeft;
 
         private void Start()
         {
@@ -42,7 +43,9 @@ namespace Assets.Scripts.UI
         /// </summary>
         public void SetPlayerName()
         {
-            _logger.Log((KeyCode)System.Enum.Parse(typeof(KeyCode), Player1MoveRight.text));
+            _logger.Log( Player1MoveRight.text);
+            _logger.Log((KeyCode)Enum.Parse(typeof(KeyCode), Player1MoveRight.text));
+            KeyCode keyCode = (KeyCode)System.Enum.Parse(typeof(KeyCode), Player1MoveRight.text);
             Menu.UsersMoveKeys.Player1MoveRight = (KeyCode)System.Enum.Parse(typeof(KeyCode), Player1MoveRight.text);
             Menu.UsersMoveKeys.Player1MoveLeft = (KeyCode)System.Enum.Parse(typeof(KeyCode), Player1MoveLeft.text);
 
@@ -55,12 +58,18 @@ namespace Assets.Scripts.UI
             Menu.UsersMoveKeys.Player4MoveRight = (KeyCode)System.Enum.Parse(typeof(KeyCode), Player4MoveRight.text);
             Menu.UsersMoveKeys.Player4MoveRight = (KeyCode)System.Enum.Parse(typeof(KeyCode), Player4MoveLeft.text);
 
+            
             _logger.Log(Menu.UsersMoveKeys.Player1MoveRight);
         }
 
         public void BackToMenu()
         {
             SceneManager.LoadScene("Menu");
+        }
+
+        public void OnChanged(string field)
+        {
+            
         }
     }
 }
