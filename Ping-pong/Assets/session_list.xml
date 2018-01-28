@@ -1,0 +1,3257 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<SessionList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sessions>
+    <Session id="0">
+      <TimeCreated>2018-01-28T12:01:37.4864228+02:00</TimeCreated>
+      <SpentTime>0:3</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>0</Points>
+    </Session>
+    <Session id="1">
+      <TimeCreated>2018-01-28T12:03:38.6815653+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>100</Points>
+    </Session>
+    <Session id="2">
+      <TimeCreated>2018-01-28T12:04:27.2747064+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>100</Points>
+    </Session>
+    <Session id="3">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="4">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="5">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="6">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="7">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="8">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="9">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="10">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="11">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="12">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="13">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="14">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="15">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="16">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="17">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="18">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="19">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="20">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="21">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="22">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>150</Points>
+    </Session>
+    <Session id="23">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="24">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="25">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="26">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="27">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:6</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="28">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="29">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="30">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="31">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="32">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="33">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="34">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="35">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="36">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="37">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="38">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="39">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="40">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="41">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="42">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="43">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="44">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="45">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="46">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="47">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="48">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="49">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="50">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="51">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="52">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="53">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="54">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="55">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="56">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:8</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="57">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="58">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="59">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="60">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="61">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="62">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="63">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="64">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="65">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="66">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="67">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="68">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="69">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="70">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="71">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="72">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="73">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="74">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="75">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="76">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="77">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="78">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="79">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="80">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="81">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="82">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="83">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="84">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="85">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:9</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="86">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="87">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="88">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="89">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="90">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="91">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="92">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="93">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="94">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="95">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="96">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="97">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="98">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="99">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="100">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="101">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="102">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="103">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="104">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="105">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="106">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="107">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="108">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="109">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="110">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="111">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="112">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="113">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="114">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:10</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="115">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="116">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="117">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="118">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="119">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="120">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="121">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="122">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="123">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="124">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="125">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="126">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="127">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="128">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="129">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="130">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="131">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="132">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="133">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="134">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="135">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="136">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="137">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="138">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="139">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="140">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="141">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="142">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="143">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="144">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:11</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="145">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="146">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="147">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="148">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="149">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="150">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="151">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="152">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="153">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="154">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="155">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="156">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="157">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="158">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="159">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="160">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="161">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="162">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="163">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="164">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="165">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="166">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="167">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="168">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="169">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="170">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:12</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="171">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="172">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="173">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="174">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="175">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="176">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="177">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="178">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="179">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="180">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="181">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="182">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="183">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="184">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="185">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="186">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="187">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="188">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="189">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="190">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="191">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="192">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="193">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:13</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="194">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="195">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="196">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="197">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="198">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="199">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="200">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="201">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="202">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="203">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="204">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="205">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="206">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="207">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="208">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="209">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="210">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="211">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="212">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="213">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="214">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="215">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="216">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:14</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="217">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="218">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="219">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="220">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="221">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="222">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="223">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="224">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="225">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="226">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="227">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="228">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="229">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="230">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="231">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="232">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="233">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="234">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="235">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="236">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="237">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="238">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="239">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="240">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:15</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="241">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="242">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="243">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="244">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="245">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="246">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="247">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="248">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="249">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="250">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="251">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="252">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="253">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="254">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="255">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="256">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="257">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="258">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="259">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="260">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="261">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="262">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:16</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="263">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="264">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="265">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="266">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="267">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="268">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="269">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="270">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="271">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="272">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="273">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="274">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="275">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="276">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="277">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="278">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="279">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="280">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="281">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:17</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="282">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="283">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="284">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="285">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="286">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="287">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="288">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="289">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="290">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="291">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="292">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="293">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="294">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="295">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="296">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="297">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="298">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="299">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="300">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:18</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="301">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="302">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="303">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="304">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="305">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="306">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="307">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="308">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="309">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="310">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="311">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="312">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="313">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="314">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="315">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="316">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:19</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="317">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="318">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="319">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="320">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="321">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="322">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="323">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="324">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="325">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="326">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="327">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="328">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="329">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="330">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="331">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="332">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="333">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="334">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="335">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:20</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="336">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="337">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="338">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="339">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="340">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="341">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="342">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="343">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="344">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="345">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="346">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="347">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="348">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="349">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="350">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="351">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:21</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="352">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="353">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="354">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="355">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="356">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="357">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="358">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="359">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="360">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="361">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="362">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="363">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="364">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="365">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="366">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="367">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="368">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="369">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="370">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="371">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:22</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="372">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="373">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="374">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="375">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="376">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="377">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="378">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="379">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="380">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="381">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="382">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="383">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="384">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="385">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="386">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="387">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="388">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="389">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="390">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:23</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="391">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="392">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="393">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="394">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="395">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="396">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="397">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="398">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="399">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="400">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="401">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="402">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="403">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="404">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="405">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:24</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="406">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="407">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="408">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="409">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="410">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="411">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="412">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="413">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="414">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="415">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="416">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="417">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="418">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="419">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="420">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="421">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="422">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="423">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:25</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="424">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="425">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="426">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="427">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="428">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="429">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="430">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="431">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="432">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="433">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="434">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="435">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="436">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="437">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="438">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="439">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="440">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:26</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="441">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="442">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="443">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="444">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="445">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="446">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="447">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="448">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="449">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="450">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="451">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="452">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="453">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="454">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="455">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:27</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="456">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="457">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="458">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="459">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="460">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="461">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="462">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="463">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="464">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="465">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="466">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="467">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="468">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="469">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="470">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:28</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="471">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="472">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="473">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="474">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="475">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="476">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="477">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="478">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="479">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="480">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="481">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="482">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="483">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="484">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="485">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:29</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="486">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="487">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="488">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="489">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="490">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="491">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="492">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="493">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="494">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="495">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="496">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="497">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="498">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="499">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:30</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="500">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="501">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="502">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="503">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="504">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="505">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="506">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="507">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="508">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="509">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="510">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="511">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="512">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="513">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="514">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:31</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="515">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="516">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="517">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="518">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="519">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="520">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="521">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="522">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="523">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="524">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="525">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="526">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="527">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="528">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="529">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="530">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="531">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:32</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="532">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="533">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="534">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="535">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="536">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="537">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="538">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="539">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="540">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+    <Session id="541">
+      <TimeCreated>2018-01-28T12:05:29.4327378+02:00</TimeCreated>
+      <SpentTime>0:33</SpentTime>
+      <NameDeath>Мяч вылетел за границы поля</NameDeath>
+      <Points>200</Points>
+    </Session>
+  </Sessions>
+</SessionList>

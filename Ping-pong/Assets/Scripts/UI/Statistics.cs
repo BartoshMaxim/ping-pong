@@ -53,13 +53,21 @@ namespace Assets.Scripts.UI
         {
             var sessionList = sessionResultList.OrderByDescending(d => d.TimeCreated);
 
-            string sessionListString = "ID\tTime Created\tSpentTime\t\n";
+            string sessionListString = "\tID\t\tTime Created\tSpentTime\tPoints\n";
             foreach (SessionResult sessionResult in sessionList)
             {
-                sessionListString += String.Format("{0}\t{1}\t{2}",
+                string tab = "\t\t";
+
+                if (sessionResult.Id >= 10 && sessionResult.Id < 100)
+                    tab = "\t";
+                else if (sessionResult.Id >= 100)
+                    tab = " ";
+
+                sessionListString += String.Format("\t{0}" + tab + "{1}\t{2}\t\t\t{3}\n",
                     sessionResult.Id,
                     sessionResult.TimeCreated.ToString("MM/dd hh:mm:ss"),
-                    sessionResult.SpentTime.ToString());
+                    sessionResult.SpentTime.ToString(),
+                    sessionResult.Points);
             }
             return sessionListString;
         }

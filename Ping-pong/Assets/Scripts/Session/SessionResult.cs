@@ -28,12 +28,15 @@ namespace Assets.Scripts.Session
 
         public string NameDeath { get; set; }
 
-        public SessionResult(DateTime timeCreated, TimeSpan spentTime, string nameDeath)
+        public int Points { get; set; }
+
+        public SessionResult(DateTime timeCreated, TimeSpan spentTime, string nameDeath, int points)
         {
             _logger = new UnityEngine.Logger(new PingPongLogHandler());
             _logger.Log(_tag, "SessionResult Create.");
             TimeCreated = timeCreated;
             NameDeath = nameDeath;
+            Points = points;
             if (Menu.SessionList == null)
                 Id = 0;
             else
