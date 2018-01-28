@@ -17,9 +17,25 @@ public class Menu : MonoBehaviour
 
     private UnityEngine.Logger _logger;
 
-    public static SessionList SessionList;
+    private static SessionList _sessionList;
 
-    public static UsersMoveKeys _usersMoveKeys;
+    public static SessionList SessionList
+    {
+        get
+        {
+            if (_sessionList == null)
+            {
+                _sessionList = new SessionList();
+            }
+            return _sessionList;
+        }
+        set
+        {
+            _sessionList = value;
+        }
+    }
+
+    private static UsersMoveKeys _usersMoveKeys;
 
     public static UsersMoveKeys UsersMoveKeys
     {

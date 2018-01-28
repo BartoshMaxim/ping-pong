@@ -22,7 +22,11 @@ public class LevelController : MonoBehaviour
 
     private Logger _logger;
     private DateTime timeCreate;
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 9716b6689bf8bec178990f4a4a5c94c47d09c3da
     public enum Id
     {
         top,

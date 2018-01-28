@@ -22,7 +22,12 @@ public class Platform : MonoBehaviour {
         animator.SetTrigger("Bounce");
     }
 
+<<<<<<< HEAD
     public void MovePlatform(KeyCode keyLeft, KeyCode keyRight, int idPlatform)
+=======
+
+    public void MovePlatform(KeyCode keyLeft, KeyCode keyRight)
+>>>>>>> 9716b6689bf8bec178990f4a4a5c94c47d09c3da
     {
         if (idPlatform == (int)LevelController.Id.bot || idPlatform == (int)LevelController.Id.top)
         {
