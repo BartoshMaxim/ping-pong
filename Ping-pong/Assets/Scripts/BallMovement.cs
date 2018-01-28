@@ -10,6 +10,7 @@ public class BallMovement : MonoBehaviour {
     private int newEmoji;
     private int emojiName;
     private float speed;
+    public AudioClip saw;
     void Start ()
     {
         speed = 50f;
@@ -20,6 +21,9 @@ public class BallMovement : MonoBehaviour {
         //    GetComponent<Rigidbody>().velocity = new Vector3(-1, 0, -1) * speed;
 
         GetComponent<Rigidbody>().velocity = Vector3.left * speed;
+
+        GetComponent<AudioSource>().playOnAwake = false;
+        GetComponent<AudioSource>().clip = saw;
     }
     private void Update()
     {
@@ -43,6 +47,7 @@ public class BallMovement : MonoBehaviour {
     {
         if (collision.gameObject.GetComponentInParent<Platform>())
         {
+            GetComponent<AudioSource>().Play();
             LevelController.Points+=50;
             newEmoji++;
             collision.gameObject.GetComponentInParent<Platform>().PlayAnimation();

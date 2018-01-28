@@ -22,6 +22,7 @@ public class Platform : MonoBehaviour {
         animator.SetTrigger("Bounce");
     }
 
+
     public void MovePlatform(KeyCode keyLeft, KeyCode keyRight)
     {
         if (transform.rotation.y <= 0)
