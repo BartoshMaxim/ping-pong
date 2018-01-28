@@ -4,7 +4,7 @@ using UnityEngine;
 public class SunController : MonoBehaviour
 {
 
-    private Vector3 day = new Vector3(90f, 0, 0);
+    private Vector3 day = new Vector3(34f, 0, 0);
 
     private Vector3 night = new Vector3(165f, 0, 0);
 
