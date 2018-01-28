@@ -22,9 +22,9 @@ public class Platform : MonoBehaviour {
         animator.SetTrigger("Bounce");
     }
 
-    public void MovePlatform(KeyCode keyLeft, KeyCode keyRight)
+    public void MovePlatform(KeyCode keyLeft, KeyCode keyRight, int idPlatform)
     {
-        if (transform.rotation.y <= 0)
+        if (idPlatform == (int)LevelController.Id.bot || idPlatform == (int)LevelController.Id.top)
         {
             if (Input.GetKey(keyLeft))
             {
@@ -36,7 +36,7 @@ public class Platform : MonoBehaviour {
             }
             if (Input.GetKey(keyRight))
             {
-                transform.position += new Vector3(Speed * Time.deltaTime, transform.position.y);
+                transform.position += new Vector3(Speed * Time.deltaTime, 0);
                 if (transform.position.x > boundX)
                 {
                     transform.position = new Vector3(transform.position.x - .2f, transform.position.y, transform.position.z);
@@ -61,6 +61,6 @@ public class Platform : MonoBehaviour {
                     transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z - .2f);
                 }
             }
-        }        
+        }
     }
 }

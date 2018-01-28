@@ -17,13 +17,12 @@ public class LevelController : MonoBehaviour
     bool bonusTaken = false;
     UsersMoveKeys userKeys;
     int bonus = -1;
-<<<<<<< HEAD
+
     AudioSource audio;
-=======
+
     private Logger _logger;
     private DateTime timeCreate;
-
->>>>>>> dd93a4990b292c3c3b65b6a638cb256bef5870c5
+    
     public enum Id
     {
         top,
@@ -62,25 +61,26 @@ public class LevelController : MonoBehaviour
 
     private void Update()
     {
-        platform[0].MovePlatform(userKeys.Player1MoveLeft, userKeys.Player1MoveRight);
-        platform[1].MovePlatform(userKeys.Player2MoveLeft, userKeys.Player2MoveRight);
-        platform[2].MovePlatform(userKeys.Player3MoveLeft, userKeys.Player3MoveRight);
-        platform[3].MovePlatform(userKeys.Player4MoveLeft, userKeys.Player4MoveRight);
+        platform[0].MovePlatform(userKeys.Player1MoveLeft, userKeys.Player1MoveRight, platform[0].Id);
+        platform[1].MovePlatform(userKeys.Player2MoveLeft, userKeys.Player2MoveRight, platform[1].Id);
+        platform[2].MovePlatform(userKeys.Player3MoveLeft, userKeys.Player3MoveRight, platform[2].Id);
+        platform[3].MovePlatform(userKeys.Player4MoveLeft, userKeys.Player4MoveRight, platform[3].Id);
 
-        if (ball.transform.position.x < -71f
-           || ball.transform.position.x > 71f
-           || ball.transform.position.z > 71f
-            || ball.transform.position.z < -71f)
+        if (ball.transform.position.x < -7f
+           || ball.transform.position.x > 7f
+           || ball.transform.position.z > 7f
+            || ball.transform.position.z < -7f)
         {
             Exit("Мяч вылетел за границы поля");
         }
-
+        print(Points);
         if (!bonusTaken)
         {
-            if (platform[0].transform.position.x < -49f
-           && platform[1].transform.position.x > 49f
-           && platform[2].transform.position.z > 49f
-            && platform[3].transform.position.z < -49f)
+                print("SS");
+            if (platform[0].transform.position.x < -3.5f
+           && platform[1].transform.position.x > 3.5f
+           && platform[2].transform.position.z > 3.5f
+            && platform[3].transform.position.z < -3.5f)
             {
                 bonusTaken = true;
                 bonus = (int)Bonuses.AdditionalPoints;
