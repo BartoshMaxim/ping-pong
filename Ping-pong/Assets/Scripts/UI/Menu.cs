@@ -62,7 +62,7 @@ public class Menu : MonoBehaviour
     /// </summary>
     public void StartGame()
     {
-        SceneManager.LoadScene("Labyrinth");
+        SceneManager.LoadScene("Pong");
     }
 
     /// <summary>
