@@ -6,6 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace Assets.Scripts.UI
@@ -63,5 +64,12 @@ namespace Assets.Scripts.UI
             return sessionListString;
         }
 
+        /// <summary>
+        /// Load Menu
+        /// </summary>
+        public void BackToMenu()
+        {
+            SceneManager.LoadScene("Menu");
+        }
     }
 }

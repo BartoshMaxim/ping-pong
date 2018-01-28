@@ -469,7 +469,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: 
 --- !u!1 &353751128
 GameObject:
   m_ObjectHideFlags: 0
@@ -652,7 +651,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: 
 --- !u!1 &448757288
 GameObject:
   m_ObjectHideFlags: 0
@@ -1046,7 +1044,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -47}
+  m_AnchoredPosition: {x: 0, y: -15}
   m_SizeDelta: {x: 160, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &693831083
@@ -1486,7 +1484,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: 
 --- !u!1 &963262099
 GameObject:
   m_ObjectHideFlags: 0
@@ -1969,7 +1966,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: 
 --- !u!1 &1358181090
 GameObject:
   m_ObjectHideFlags: 0
@@ -2117,7 +2113,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: FirstPlayerMoveRight
 --- !u!114 &1358181096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2646,7 +2641,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: 
 --- !u!1 &1474032845
 GameObject:
   m_ObjectHideFlags: 0
@@ -2679,7 +2673,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 89}
+  m_AnchoredPosition: {x: 0, y: 114}
   m_SizeDelta: {x: 358, y: 59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1474032847
@@ -2867,7 +2861,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: 
 --- !u!1 &1533797069
 GameObject:
   m_ObjectHideFlags: 0
@@ -3063,7 +3056,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272a3ccf8d9c23040809a03d0f67fa7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objName: FirstPlayerMoveLeft
 --- !u!1 &1580450455
 GameObject:
   m_ObjectHideFlags: 0
@@ -3313,6 +3305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64d74567710360f4ba88618cbcda09e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ErrorText: {fileID: 1474032847}
   Player1MoveRight: {fileID: 1358181092}
   Player1MoveLeft: {fileID: 1551664433}
   Player2MoveRight: {fileID: 406696909}
