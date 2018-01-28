@@ -6,7 +6,6 @@ using UnityEngine;
 public class LevelController : MonoBehaviour {
 
     public Transform ball;
-    public Vector2 fieldSize;
     public Platform[] platform;
     public static int Points { get; set; }
     bool bonusTaken = false;
@@ -30,7 +29,8 @@ public class LevelController : MonoBehaviour {
 
     private void Start()
     {
-        ball.position = new Vector3(Random.Range(-3.5f, 3.5f), 0, Random.Range(-3.5f, 3.5f));
+        //ball.position = new Vector3(Random.Range(-35f, 35f), 0, Random.Range(-35f, 35f));
+        ball.position = new Vector3();
         userKeys = new UsersMoveKeys
         {
             Player1MoveLeft = KeyCode.A,
@@ -43,24 +43,29 @@ public class LevelController : MonoBehaviour {
             Player4MoveRight = KeyCode.Keypad6
         };
 
-        BallMovement.MinSpeed = 1;
-        BallMovement.MaxSpeed = 9;
-        BallMovement.BallSpeed = 6;
         foreach (Platform p in platform)
         {
-            p.GetComponent<Platform>().Speed = 6f;
+            p.GetComponent<Platform>().Speed = 50f;
         }
     }
-
-    void BonusPoints()
-    {
-        if (platform[0].transform.position.x < -8f && platform[1].transform.position.x > 8f && platform[2].transform.position.z > 8f && platform[3].transform.position.z < 8f)
-        {
-            Points += Bonus.AdditionalPoints;
-        }
-    }
+    
     private void Update()
     {
+        if (!bonusTaken)
+        {
+            if (platform[0].transform.position.x < -49f
+           && platform[1].transform.position.x > 49f
+           && platform[2].transform.position.z > 49f
+            && platform[3].transform.position.z < -49f)
+            {
+                bonusTaken = true;
+                bonus = (int)Bonuses.AdditionalPoints;
+            }
+        }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            bonus = (int)Bonuses.DoublePlatform;
+        }
         platform[0].MovePlatform(userKeys.Player1MoveLeft, userKeys.Player1MoveRight);
         platform[0].Id = (int)Id.bot;
         platform[1].MovePlatform(userKeys.Player2MoveLeft, userKeys.Player2MoveRight);
@@ -69,12 +74,13 @@ public class LevelController : MonoBehaviour {
         platform[2].Id = (int)Id.left;
         platform[3].MovePlatform(userKeys.Player4MoveLeft, userKeys.Player4MoveRight);
         platform[3].Id = (int)Id.right;
-        
+        print(Points);
         switch (bonus)
         {
             case (int)Bonuses.AdditionalPoints:
                 {
-                    BonusPoints();
+                    Points += Bonus.AdditionalPoints;
+                    bonus = -1;
                     break;
                 }
             case (int)Bonuses.DoubleBall:
@@ -88,10 +94,5 @@ public class LevelController : MonoBehaviour {
                     break;
                 }
         }
-    }
-
-    private void OnDrawGizmos()
-    {
-        Gizmos.DrawWireCube(transform.position, new Vector3(fieldSize.x, 1, fieldSize.y));
     }
 }

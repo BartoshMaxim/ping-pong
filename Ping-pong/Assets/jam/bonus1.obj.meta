@@ -1,24 +1,17 @@
 fileFormatVersion: 2
-guid: 703a0117d849a7b478439b2140280dd5
-timeCreated: 1517077810
+guid: 5297315ff37030c4ba3aba58709943b4
+timeCreated: 1517085279
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: Box001
-    100002: CATRigHub001
-    100004: CATRigHub001Bone001
-    100006: Character001
-    100008: //RootNode
-    400000: Box001
-    400002: CATRigHub001
-    400004: CATRigHub001Bone001
-    400006: Character001
-    400008: //RootNode
-    4300000: Box001
-    7400000: Take 001
-    9500000: //RootNode
-    13700000: Box001
+    100000: //RootNode
+    100002: Cylinder001
+    400000: //RootNode
+    400002: Cylinder001
+    2300000: Cylinder001
+    3300000: Cylinder001
+    4300000: Cylinder001
   materials:
     importMaterials: 1
     materialName: 0
@@ -42,55 +35,17 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Take 001
-      takeName: Take 001
-      firstFrame: 1
-      lastFrame: 20
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask:
-      - path: 
-        weight: 1
-      - path: Box001
-        weight: 1
-      - path: CATRigHub001
-        weight: 1
-      - path: CATRigHub001/CATRigHub001Bone001
-        weight: 1
-      - path: Character001
-        weight: 1
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 0
+    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -106,7 +61,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -126,7 +81,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

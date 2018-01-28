@@ -7,32 +7,39 @@ public class Platform : MonoBehaviour {
     public float Size { get; set; }
     public float Speed { get; set; }
     public int Id { get; set; }
+    private Animator animator;
 
-    float platformScale = 3;
-
+    private float boundX, boundZ;
     private void Start()
     {
-        transform.localScale = new Vector3(transform.lossyScale.x, transform.lossyScale.y, platformScale);
+        animator = GetComponent<Animator>();
+        boundX = 50f;
+        boundZ = 50f;
+    }
+
+    public void PlayAnimation()
+    {
+        animator.SetTrigger("Bounce");
     }
 
     public void MovePlatform(KeyCode keyLeft, KeyCode keyRight)
     {
-        if (transform.rotation.y == 0)
+        if (transform.rotation.y <= 0)
         {
             if (Input.GetKey(keyLeft))
             {
-                transform.position -= new Vector3(0, 0, Speed * Time.deltaTime);
-                if (transform.position.z < -8.5f)
+                transform.position -= new Vector3(Speed * Time.deltaTime, 0);
+                if (transform.position.x < -boundX)
                 {
-                    transform.position = new Vector3(transform.position.x, 0, transform.position.z + .3f);
+                    transform.position = new Vector3(transform.position.x + .85f, 0, transform.position.z);
                 }
             }
             if (Input.GetKey(keyRight))
             {
-                transform.position += new Vector3(0, 0, Speed * Time.deltaTime);
-                if (transform.position.z > 8.5f)
+                transform.position += new Vector3(Speed * Time.deltaTime, transform.position.y);
+                if (transform.position.x > boundX)
                 {
-                    transform.position = new Vector3(transform.position.x, 0, transform.position.z - .3f);
+                    transform.position = new Vector3(transform.position.x - .85f, 0, transform.position.z);
                 }
             }
         }
@@ -40,18 +47,18 @@ public class Platform : MonoBehaviour {
         {
             if (Input.GetKey(keyLeft))
             {
-                transform.position -= new Vector3(Speed * Time.deltaTime, 0);
-                if (transform.position.x < -8.5f)
+                transform.position -= new Vector3(0, 0, Speed * Time.deltaTime);
+                if (transform.position.z < -boundZ)
                 {
-                    transform.position = new Vector3(transform.position.x + .3f, 0, transform.position.z);
+                    transform.position = new Vector3(transform.position.x, 0, transform.position.z + .85f);
                 }
             }
             if (Input.GetKey(keyRight))
             {
-                transform.position += new Vector3(Speed * Time.deltaTime, transform.position.y);
-                if (transform.position.x > 8.5f)
+                transform.position += new Vector3(0, 0, Speed * Time.deltaTime);
+                if (transform.position.z > boundZ)
                 {
-                    transform.position = new Vector3(transform.position.x - .3f, 0, transform.position.z);
+                    transform.position = new Vector3(transform.position.x, 0, transform.position.z - .85f);
                 }
             }
         }        

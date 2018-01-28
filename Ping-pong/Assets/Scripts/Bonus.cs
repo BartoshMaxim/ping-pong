@@ -11,7 +11,9 @@ public class Bonus : MonoBehaviour {
 
     public static void DoublePlatform(Platform platform)
     {
-        platform.transform.localScale = new Vector3(platform.transform.localScale.x, platform.transform.localScale.y, platform.transform.localScale.z * 2);
+        GameObject doublePlatform = Instantiate(Resources.Load("lastik2")) as GameObject;
+        //Destroy(platform);
+        doublePlatform.AddComponent<Platform>();
     }
 
     public static void DoubleBall()
