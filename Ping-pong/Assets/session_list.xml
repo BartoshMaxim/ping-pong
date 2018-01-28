@@ -3253,5 +3253,11 @@
       <NameDeath>ћ€ч вылетел за границы пол€</NameDeath>
       <Points>200</Points>
     </Session>
+    <Session id="542">
+      <TimeCreated>2018-01-28T12:30:40.6176668+02:00</TimeCreated>
+      <SpentTime>0:7</SpentTime>
+      <NameDeath>ћ€ч вылетел за границы пол€</NameDeath>
+      <Points>200</Points>
+    </Session>
   </Sessions>
 </SessionList>

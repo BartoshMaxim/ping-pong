@@ -61,7 +61,7 @@ namespace Assets.Scripts.UI
                 if (sessionResult.Id >= 10 && sessionResult.Id < 100)
                     tab = "\t";
                 else if (sessionResult.Id >= 100)
-                    tab = " ";
+                    tab = "  ";
 
                 sessionListString += String.Format("\t{0}" + tab + "{1}\t{2}\t\t\t{3}\n",
                     sessionResult.Id,
