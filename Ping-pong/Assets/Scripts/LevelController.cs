@@ -33,17 +33,7 @@ public class LevelController : MonoBehaviour {
         //ball.position = new Vector3(Random.Range(-35f, 35f), 0, Random.Range(-35f, 35f));
         Points = 0;
         ball.position = new Vector3();
-        userKeys = new UsersMoveKeys
-        {
-            Player1MoveLeft = KeyCode.A,
-            Player1MoveRight = KeyCode.D,
-            Player2MoveLeft = KeyCode.H,
-            Player2MoveRight = KeyCode.K,
-            Player3MoveLeft = KeyCode.LeftArrow,
-            Player3MoveRight = KeyCode.RightArrow,
-            Player4MoveLeft = KeyCode.Keypad4,
-            Player4MoveRight = KeyCode.Keypad6
-        };
+        userKeys = Menu.UsersMoveKeys;
 
         foreach (Platform p in platform)
         {
