@@ -12,7 +12,7 @@ public class LevelController : MonoBehaviour {
     bool bonusTaken = false;
     UsersMoveKeys userKeys;
     int bonus = -1;
-
+    AudioSource audio;
     public enum Id
     {
         top,
@@ -31,13 +31,14 @@ public class LevelController : MonoBehaviour {
     private void Start()
     {
         //ball.position = new Vector3(Random.Range(-35f, 35f), 0, Random.Range(-35f, 35f));
+        audio = GetComponent<AudioSource>();
         Points = 0;
         ball.position = new Vector3();
         userKeys = Menu.UsersMoveKeys;
 
         foreach (Platform p in platform)
         {
-            p.GetComponent<Platform>().Speed = 50f;
+            p.GetComponent<Platform>().Speed = 5f;
         }
         platform[0].Id = (int)Id.bot;
         platform[1].Id = (int)Id.top;

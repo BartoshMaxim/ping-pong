@@ -13,8 +13,8 @@ public class Platform : MonoBehaviour {
     private void Start()
     {
         animator = GetComponent<Animator>();
-        boundX = 50f;
-        boundZ = 50f;
+        boundX = 4f;
+        boundZ = 4f;
     }
 
     public void PlayAnimation()
@@ -31,7 +31,7 @@ public class Platform : MonoBehaviour {
                 transform.position -= new Vector3(Speed * Time.deltaTime, 0);
                 if (transform.position.x < -boundX)
                 {
-                    transform.position = new Vector3(transform.position.x + .85f, 0, transform.position.z);
+                    transform.position = new Vector3(transform.position.x + .2f, transform.position.y, transform.position.z);
                 }
             }
             if (Input.GetKey(keyRight))
@@ -39,7 +39,7 @@ public class Platform : MonoBehaviour {
                 transform.position += new Vector3(Speed * Time.deltaTime, transform.position.y);
                 if (transform.position.x > boundX)
                 {
-                    transform.position = new Vector3(transform.position.x - .85f, 0, transform.position.z);
+                    transform.position = new Vector3(transform.position.x - .2f, transform.position.y, transform.position.z);
                 }
             }
         }
@@ -50,7 +50,7 @@ public class Platform : MonoBehaviour {
                 transform.position -= new Vector3(0, 0, Speed * Time.deltaTime);
                 if (transform.position.z < -boundZ)
                 {
-                    transform.position = new Vector3(transform.position.x, 0, transform.position.z + .85f);
+                    transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + .2f);
                 }
             }
             if (Input.GetKey(keyRight))
@@ -58,7 +58,7 @@ public class Platform : MonoBehaviour {
                 transform.position += new Vector3(0, 0, Speed * Time.deltaTime);
                 if (transform.position.z > boundZ)
                 {
-                    transform.position = new Vector3(transform.position.x, 0, transform.position.z - .85f);
+                    transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z - .2f);
                 }
             }
         }        
